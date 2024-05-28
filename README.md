@@ -5,3 +5,11 @@ This Data analysis aims to generate insight into the sales performance of the E-
 #### TOOLS USED
 
 - POWER BI [DOWNLOAD HERE](https://powerbi.microsoft.com/en-us/desktop/)
+---
+
+~~~~
+Google Query sheet
+SELECT ABC
+WHERE A = EAST
+
+~~~~
