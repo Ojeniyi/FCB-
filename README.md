@@ -14,4 +14,4 @@ WHERE A = EAST
 
 ~~~~
 
-![] (SHOE)
+
