@@ -13,3 +13,5 @@ SELECT ABC
 WHERE A = EAST
 
 ~~~~
+
+![] (SHOE)
