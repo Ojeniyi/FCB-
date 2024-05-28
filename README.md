@@ -14,4 +14,7 @@ WHERE A = EAST
 
 ~~~~
 
-
+![](https://github.com/Ojeniyi/FCB-/blob/main/524538_18476722_3373220_4222dc33_image.jpg)
+|HEADING 1|HEADING 2|HEADING 3|
+|-----|-----|-----|
+|DATA 1|DATA 2|DATA 3|
